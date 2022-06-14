@@ -16,11 +16,11 @@ minimal_mistakes_skin    : "dark" # "air", "aqua", "contrast", "default", "dirt"
 
 # Site Settings
 locale                   : "en-US"
-title                    : "CODING BRO"
+title                    : "JWC"
 title_separator          : "-"
 subtitle                 : # site tagline that appears below site title in masthead
 name                     : "최재우"
-description              : "50일만 운영해보는 블로그"
+description              : "Jutopia With Choi"
 url                      : "https://choizaewoo.github.io"
 baseurl                  : # the subpath of your site, e.g. "/blog"
 repository               : # GitHub username/repo-name e.g. "mmistakes/minimal-mistakes"
@@ -108,9 +108,9 @@ author:
   location         : "Republic of Korea"
   email            :
   links:
-    - label: "1994cjw@gmail.com"
+    - label: "E-mail"
       icon: "fas fa-fw fa-envelope-square"
-      # url: "mailto:your.name@email.com"
+      url: "mailto:1994cjw@gmail.com"
     - label: "Website"
       icon: "fas fa-fw fa-link"
       # url: "https://your-website.com"
@@ -122,10 +122,10 @@ author:
       # url: "https://facebook.com/"
     - label: "GitHub"
       icon: "fab fa-fw fa-github"
-      # url: "https://github.com/"
+      url: "https://github.com/choizaewoo"
     - label: "Instagram"
       icon: "fab fa-fw fa-instagram"
-      # url: "https://instagram.com/"
+      url: "https://instagram.com/choizaewoo"
 
 # Site Footer
 footer:
